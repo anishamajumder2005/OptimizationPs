@@ -125,9 +125,3 @@ Edit
   - K = 1, K = N
 
 ---
-
-## 📁 Files
-
-- `main.cpp` / `main.py`: Main implementation file
-- `README.md`: Problem description and solution plan
-- `test_cases.txt`: Custom inputs for validation
